@@ -40,19 +40,23 @@ section-titles: true
 
 ## Программа для запуска `grep`
 
-![Программа для запуска `grep`](../report/image/Screenshot_1.png){ #fig:001 width=70% }
+![image](https://user-images.githubusercontent.com/103488170/170822252-3b7566a8-5b80-4fcd-a6b0-00ac38a90459.png)
+
 
 ## Программа для проверки кода выхода программы
 
-![Программа для проверки кода выхода программы](../report/image/Screenshot_3.png){ #fig:002 width=70% }
+![image](https://user-images.githubusercontent.com/103488170/170822262-a7340080-bb45-4bd6-a181-c9e13707dd13.png)
+
 
 ## Программа для создания файлов
 
-![Программа для создания файлов](../report/image/Screenshot_5.png){ #fig:003 width=70% }
+![image](https://user-images.githubusercontent.com/103488170/170822275-d86d2d34-0052-451f-b99b-f261e36f9f6d.png)
+
 
 ## Программа для создания архива
 
-![Программа для создания архива](../report/image/Screenshot_7.png){ #fig:004 width=70% }
+![image](https://user-images.githubusercontent.com/103488170/170822288-a8d5a826-75fa-405b-addb-925d7355b443.png)
+
 
 # Заключение
 
